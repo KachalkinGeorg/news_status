@@ -1,0 +1,17 @@
+;
+; Version description file for plugin @@ Next Generation CMS
+;
+ 
+ID: news_status
+Name: Статус новости
+Version: 0.1
+Acts: news:show, ppages
+File: news_status.php
+Type: plugin
+Description: Добавляет статус к новости
+Author: KachalkinGeorg
+Author_URI: 
+Icon: <span class="fa-stack fa-1x"><i class="fa fa-certificate fa-stack-2x"></i><span class="fa-stack-1x" style="color: #fff;font-size: 14px;">new</span></span>
+Title: Статус новости
+Information: В зависимости от начала публикации новости будет отображаться его статус
+Preinstall: no
